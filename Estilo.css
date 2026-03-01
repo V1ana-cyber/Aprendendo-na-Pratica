@@ -16,3 +16,16 @@ h2 {
     
 }
 
+div {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: #eceff1;
+
+}
+
+
+
+
