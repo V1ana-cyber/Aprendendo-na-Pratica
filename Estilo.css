@@ -26,6 +26,10 @@ body {
 
 }
 
-
+/* usando margin-left:auto (funciona quando o elemento é bloco) */
+.Tabela-Brasileirao {
+    display: block;          /* já é default num <nav>, mas por via das dúvidas */
+    margin-left: auto;
+}
 
 
